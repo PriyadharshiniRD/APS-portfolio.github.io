@@ -46,7 +46,7 @@ E-commerce has fundamentally transformed the global market, bringing numerous be
 
 ### Challenges
 
-* #### **Scalability:** Handling a vast number of users and products requires scalable solutions.
+* #### **Scalability**: Handling a vast number of users and products requires scalable solutions.
 * # Real-Time Performance: Ensuring real-time responsiveness for searches, recommendations, and updates.
 * # Data Consistency: Maintaining data consistency across various components and distributed systems.
 * # Cost Efficiency: Managing costs associated with implementing and scaling DSA solutions in a cost-effective manner.
