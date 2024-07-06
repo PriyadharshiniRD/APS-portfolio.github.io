@@ -14,12 +14,12 @@
 #### Note:
 This page hosts:
 
-1. [Introduction] (#Introduction)
+1. [Introduction](https://priyadharshinird.github.io/APS-portfolio.github.io/#introduction)
 2. [Why E-commerce](https://priyadharshinird.github.io/APS-portfolio.github.io/#why-e-commerce)
-3. Objectives
-4. Design
-5. Challenges
-6. To-Do
+3. [Objectives](https://priyadharshinird.github.io/APS-portfolio.github.io/#objectives)
+4. [Design](https://priyadharshinird.github.io/APS-portfolio.github.io/#design)
+5. [Challenges](https://priyadharshinird.github.io/APS-portfolio.github.io/#challenges)
+6. [To-Do](https://priyadharshinird.github.io/APS-portfolio.github.io/#to-do)
 
 ### Introduction
 
@@ -41,6 +41,12 @@ E-commerce has fundamentally transformed the global market, bringing numerous be
 * To analyze how specific algorithms and data structures optimize various functionalities like product search, recommendation systems and more.
 * To provide a detailed design for each functionality, showcasing the use of appropriate data structures and algorithms.
 * To increase your audience reach, DSA intelligently targets users based on their search intent, leveraging your product data
+
+### Design
+
+### Challenges
+
+### To-Do
 
 ### Prerequisites
 * Code List 1 [Union-Find](https://github.com/prakashbh/day-today-codes/blob/master/10-union-find-basic.c) concepts.
