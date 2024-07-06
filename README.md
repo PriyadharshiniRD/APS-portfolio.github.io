@@ -35,5 +35,12 @@ E-commerce has fundamentally transformed the global market, bringing numerous be
 * Facilitating a competitive market environment, encouraging better prices and services for consumers.
 * Streamlining operations with advanced technologies such as data analytics, automated systems, and secure payment gateways.
 
+### Objectives
+
+* To explore the application of Data Structures and Algorithms (DSA) in solving common tasks in e-commerce platforms.
+* To analyze how specific algorithms and data structures optimize various functionalities like product search, recommendation systems and more.
+* To provide a detailed design for each functionality, showcasing the use of appropriate data structures and algorithms.
+* To increase your audience reach, DSA intelligently targets users based on their search intent, leveraging your product data
+
 ### Prerequisites
 * Code List 1 [Union-Find](https://github.com/prakashbh/day-today-codes/blob/master/10-union-find-basic.c) concepts.
