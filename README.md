@@ -46,7 +46,18 @@ E-commerce has fundamentally transformed the global market, bringing numerous be
 
 ### Challenges
 
+* # Scalability:
+  Handling a vast number of users and products requires scalable solutions.
+* # Real-Time Performance: Ensuring real-time responsiveness for searches, recommendations, and updates.
+* # Data Consistency: Maintaining data consistency across various components and distributed systems.
+* # Cost Efficiency: Managing costs associated with implementing and scaling DSA solutions in a cost-effective manner.
+
 ### To-Do
 
+* # Research: Deepen your understanding of advanced DSA concepts and their applications in e-commerce.
+Case Studies: Include real-world case studies of e-commerce platforms implementing DSA solutions.
+Code Examples: Provide sample code snippets demonstrating the implementation of algorithms and data structures for various functionalities.
+Performance Analysis: Analyze and compare the performance of different algorithms and data structures in practical scenarios.
+Challenges and Solutions: Discuss common challenges and propose potential solutions or improvements.
 ### Prerequisites
 * Code List 1 [Union-Find](https://github.com/prakashbh/day-today-codes/blob/master/10-union-find-basic.c) concepts.
