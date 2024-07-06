@@ -15,7 +15,7 @@
 This page hosts:
 
 1. [Introduction] (#Introduction)
-2. Why E-commerce [](https://priyadharshinird.github.io/APS-portfolio.github.io/#why-e-commerce)
+2. [Why E-commerce](https://priyadharshinird.github.io/APS-portfolio.github.io/#why-e-commerce)
 3. Objectives
 4. Design
 5. Challenges
