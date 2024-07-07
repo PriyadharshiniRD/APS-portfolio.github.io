@@ -62,6 +62,8 @@ E-commerce has fundamentally transformed the global market, bringing numerous be
 * Challenges and Solutions: Discuss common challenges and propose potential solutions or improvements.
 ### Functionalities
 
-[how trie woks](images/Trie DS.png) 
+how trie works
+![image](https://github.com/PriyadharshiniRD/APS-portfolio.github.io/assets/105196784/0e40a590-09ba-4f2c-80c2-f2f531718274)
+
 ### Prerequisites
 * Code List 1 [Union-Find](https://github.com/prakashbh/day-today-codes/blob/master/10-union-find-basic.c) concepts.
