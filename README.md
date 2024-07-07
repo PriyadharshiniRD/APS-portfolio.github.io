@@ -89,7 +89,7 @@ By implementing tries, e-commerce platforms can provide instant search suggestio
 | Deletion        | O(m)            | O(1)             |
  
 
-[view code here](https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/codes/trie.cpp)
+[view implementation here](https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/codes/trie.cpp)
 
 ### Optimizing E-commerce Logistics with Dijkstra's Algorithm
 <table border="0">
@@ -116,5 +116,7 @@ Using Dijkstra's Algorithm in logistics for e-commerce optimizes delivery routes
 |-----------------|-----------------|
 | Time Complexity | O((V + E) log V)| 
 | Space Complexity| O(V)            |
+
+[view implementation here](https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/codes/dij.cpp)
 ### Prerequisites
 * Code List 1 [Union-Find](https://github.com/prakashbh/day-today-codes/blob/master/10-union-find-basic.c) concepts.
