@@ -45,7 +45,24 @@ E-commerce has fundamentally transformed the global market, bringing numerous be
 ### Design
 
 ![image](https://github.com/PriyadharshiniRD/APS-portfolio.github.io/assets/105196784/dece267c-337f-4caa-86d8-a7af64e48e5e)
-
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Centered Image</title>
+  <style>
+    /* Optional: Set a max-width for the image */
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block; /* Ensure the image is treated as a block element */
+      margin: auto; /* Center the image horizontally */
+    }
+  </style>
+</head>
+<body>
+  <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/1710058026386.jpg?raw=true" alt="Your Image Description" height="600" width="6000">
+</body>
+</html>
 ### Challenges
 
 * Scalability: Handling a vast number of users and products requires scalable solutions.
