@@ -71,12 +71,21 @@ how trie works
 
 ## How Trie Works
 
-<table>
+## How Trie Works
+
+<table border="0">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/PriyadharshiniRD/APS-portfolio.github.io/main/images/Trie%20DS.png" width="450" height="450" alt="Trie DS"></td>
-    <td><img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/tier%20pic.png?raw=true" width="475" height="475" alt="Tier Pic"></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/PriyadharshiniRD/APS-portfolio.github.io/main/images/Trie%20DS.png" width="475" height="475" alt="Trie DS">
+      <p>Description for Trie DS</p>
+    </td>
+    <td>
+      <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/tier%20pic.png?raw=true" width="475" height="475" alt="Tier Pic">
+      <p>Description for Tier Pic</p>
+    </td>
   </tr>
 </table>
+
 
 
 ### Prerequisites
