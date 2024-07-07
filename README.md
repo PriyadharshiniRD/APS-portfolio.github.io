@@ -45,24 +45,6 @@ E-commerce has fundamentally transformed the global market, bringing numerous be
 ### Design
 
 ![image](https://github.com/PriyadharshiniRD/APS-portfolio.github.io/assets/105196784/dece267c-337f-4caa-86d8-a7af64e48e5e)
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Centered Image</title>
-  <style>
-    /* Optional: Set a max-width for the image */
-    img {
-      max-width: 100%;
-      height: auto;
-      display: block; /* Ensure the image is treated as a block element */
-      margin: auto; /* Center the image horizontally */
-    }
-  </style>
-</head>
-<body>
-  <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/1710058026386.jpg?raw=true" alt="Your Image Description" height="600" width="600">
-</body>
-</html>
 ### Challenges
 
 * Scalability: Handling a vast number of users and products requires scalable solutions.
@@ -79,18 +61,35 @@ E-commerce has fundamentally transformed the global market, bringing numerous be
 * Challenges and Solutions: Discuss common challenges and propose potential solutions or improvements.
 ### Functionalities
 
+### Optimized Product Search and Autocomplete using Trie Data Structures.
 <table border="0">
   <tr>
     <td>
       <img src="https://raw.githubusercontent.com/PriyadharshiniRD/APS-portfolio.github.io/main/images/Trie%20DS.png" width="475" height="475" alt="Trie DS">
-      <p>Description for Trie DS</p>
+      <p>Trie Data structure</p>
     </td>
     <td>
       <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/tier%20pic.png?raw=true" width="475" height="475" alt="Tier Pic">
-      <p>Description for Tier Pic</p>
+      <p>Implementation in real life</p>
     </td>
   </tr>
 </table>
+
+
+Tries in e-commerce optimize search functionalities, enhancing product search and autocomplete features, thereby improving user experience and increasing conversion rates through faster and more accurate product discovery.
+
+#### Impact and Efficiency:
+By implementing tries, e-commerce platforms can provide instant search suggestions, reduce search query times, and enhance backend efficiency in managing large product catalogs, leading to improved customer satisfaction and higher sales conversion rates.
+
+
+| Operation       | Time Complexity | Space Complexity |
+|-----------------|-----------------|------------------|
+| Insertion       | O(n)            | O(m*n)           |
+| Search          | O(n)            | O(1)             |
+| Deletion        | O(m)            | O(1)             |
+ 
+
+[view code here]("")
 
 
 
