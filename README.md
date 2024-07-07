@@ -60,7 +60,7 @@ E-commerce has fundamentally transformed the global market, bringing numerous be
   </style>
 </head>
 <body>
-  <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/1710058026386.jpg?raw=true" alt="Your Image Description" height="600" width="6000">
+  <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/1710058026386.jpg?raw=true" alt="Your Image Description" height="600" width="600">
 </body>
 </html>
 ### Challenges
@@ -78,17 +78,6 @@ E-commerce has fundamentally transformed the global market, bringing numerous be
 * Performance Analysis: Analyze and compare the performance of different algorithms and data structures in practical scenarios.
 * Challenges and Solutions: Discuss common challenges and propose potential solutions or improvements.
 ### Functionalities
-
-
-
-how trie works
-<img src ="https://raw.githubusercontent.com/PriyadharshiniRD/APS-portfolio.github.io/main/images/Trie%20DS.png" width="450" height="450">
-<img src ="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/tier%20pic.png?raw=true" width="475" height="475">
-
-
-## How Trie Works
-
-## How Trie Works
 
 <table border="0">
   <tr>
