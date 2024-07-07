@@ -66,7 +66,7 @@ E-commerce has fundamentally transformed the global market, bringing numerous be
 ![image](https://github.com/PriyadharshiniRD/APS-portfolio.github.io/assets/105196784/0e40a590-09ba-4f2c-80c2-f2f531718274)
 
 
-<img src ="https://raw.githubusercontent.com/PriyadharshiniRD/APS-portfolio.github.io/main/images/Trie%20DS.png" width="250" height="250">
+<img src ="https://raw.githubusercontent.com/PriyadharshiniRD/APS-portfolio.github.io/main/images/Trie%20DS.png" width="350" height="350">
 how trie works
 ### Prerequisites
 * Code List 1 [Union-Find](https://github.com/prakashbh/day-today-codes/blob/master/10-union-find-basic.c) concepts.
