@@ -91,7 +91,30 @@ By implementing tries, e-commerce platforms can provide instant search suggestio
 
 [view code here](https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/codes/trie.cpp)
 
+### Optimizing E-commerce Logistics with Dijkstra's Algorithm
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/dij%20image.png" width="475" height="475" alt="Trie DS">
+      <p>Trie Data structure</p>
+    </td>
+    <td>
+      <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/dij%20anima.jpg" width="475" height="475" alt="Tier Pic">
+      <p>Implementation in real life</p>
+    </td>
+  </tr>
+</table>
 
 
+Logistics, being the heart of e-commerce, utilizes Dijkstra's algorithm to optimize delivery routes, ensuring efficient and timely shipment of goods. By calculating the shortest paths in transportation networks, it minimizes costs and maximizes delivery speed, enhancing customer satisfaction and operational efficiency in e-commerce logistics.
+
+#### Impact and Efficiency:
+Using Dijkstra's Algorithm in logistics for e-commerce optimizes delivery routes, reducing transportation costs and time. It ensures efficient order fulfillment, enhances customer satisfaction with timely deliveries, and scales with increasing demand, making logistics operations more streamlined and cost-effective.
+
+
+|Aspect           | Complexity      | 
+|-----------------|-----------------|
+| Time Complexity | O((V + E) log V)| 
+| Space Complexity| O(V)            |
 ### Prerequisites
 * Code List 1 [Union-Find](https://github.com/prakashbh/day-today-codes/blob/master/10-union-find-basic.c) concepts.
