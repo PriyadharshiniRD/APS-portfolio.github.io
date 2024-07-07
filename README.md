@@ -44,7 +44,7 @@ E-commerce has fundamentally transformed the global market, bringing numerous be
 
 ### Design
 
-[image](https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/b28ae71d7e869cc6a305fa5b282bd26afd10c38f/images/1710058026386.jpg)
+![image](https://github.com/PriyadharshiniRD/APS-portfolio.github.io/assets/105196784/dece267c-337f-4caa-86d8-a7af64e48e5e)
 
 ### Challenges
 
