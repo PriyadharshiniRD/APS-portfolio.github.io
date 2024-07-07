@@ -63,12 +63,21 @@ E-commerce has fundamentally transformed the global market, bringing numerous be
 ### Functionalities
 
 
-![image](https://github.com/PriyadharshiniRD/APS-portfolio.github.io/assets/105196784/0e40a590-09ba-4f2c-80c2-f2f531718274)
 
-
-<img src ="https://raw.githubusercontent.com/PriyadharshiniRD/APS-portfolio.github.io/main/images/Trie%20DS.png" width="450" height="450">
 how trie works
+<img src ="https://raw.githubusercontent.com/PriyadharshiniRD/APS-portfolio.github.io/main/images/Trie%20DS.png" width="450" height="450">
 <img src ="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/tier%20pic.png?raw=true" width="475" height="475">
+
+
+## How Trie Works
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/PriyadharshiniRD/APS-portfolio.github.io/main/images/Trie%20DS.png" width="450" height="450" alt="Trie DS"></td>
+    <td><img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/tier%20pic.png?raw=true" width="475" height="475" alt="Tier Pic"></td>
+  </tr>
+</table>
+
 
 ### Prerequisites
 * Code List 1 [Union-Find](https://github.com/prakashbh/day-today-codes/blob/master/10-union-find-basic.c) concepts.
