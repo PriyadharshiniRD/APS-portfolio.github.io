@@ -60,6 +60,8 @@ E-commerce has fundamentally transformed the global market, bringing numerous be
 * Code Examples: Provide sample code snippets demonstrating the implementation of algorithms and data structures for various functionalities.
 * Performance Analysis: Analyze and compare the performance of different algorithms and data structures in practical scenarios.
 * Challenges and Solutions: Discuss common challenges and propose potential solutions or improvements.
-  
+### Functionalities
+
+[how trie woks](images/Trie DS.png) 
 ### Prerequisites
 * Code List 1 [Union-Find](https://github.com/prakashbh/day-today-codes/blob/master/10-union-find-basic.c) concepts.
