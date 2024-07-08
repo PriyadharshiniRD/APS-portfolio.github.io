@@ -118,5 +118,33 @@ Using Dijkstra's Algorithm in logistics for e-commerce optimizes delivery routes
 | Space Complexity| O(V)            |
 
 [view implementation here](https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/codes/dij.cpp)
+
+
+###  Efficient Range Query Processing in E-Commerce
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/mos%20anima.jpg?raw=true" width="475" height="475" alt="Trie DS">
+      <p>Trie Data structure</p>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/PriyadharshiniRD/APS-portfolio.github.io/main/images/price%20range%20pic.png" width="475" height="475" alt="Tier Pic">
+      <p>Implementation in real life</p>
+    </td>
+  </tr>
+</table>
+
+In e-commerce platforms, Mo's Algorithm can be leveraged to optimize operations that involve analyzing or filtering data within specific ranges, such as finding products within a price range, filtering transactions within a date range, or determining user activity over certain periods. This functionality enhances the user experience by providing fast and relevant search results, improving data analysis, and optimizing resource usage.
+
+#### Impact and Efficiency
+
+ This enhances user experience by providing fast and accurate search results, leading to higher customer satisfaction.It is  highly efficient for large-scale data operations typical in e-commerce platforms.
+
+ |Aspect           | Complexity      | 
+|-----------------|-----------------|
+| Time Complexity |  O((N + Q) * √N)| 
+| Space Complexity| O(N)       |
+
+[view implementation here](https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/codes/MOs%20algo.cpp)
 ### Prerequisites
 * Code List 1 [Union-Find](https://github.com/prakashbh/day-today-codes/blob/master/10-union-find-basic.c) concepts.
