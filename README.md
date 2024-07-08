@@ -45,6 +45,7 @@ E-commerce has fundamentally transformed the global market, bringing numerous be
 ### Design
 
 ![image](https://github.com/PriyadharshiniRD/APS-portfolio.github.io/assets/105196784/dece267c-337f-4caa-86d8-a7af64e48e5e)
+
 ### Challenges
 
 * Scalability: Handling a vast number of users and products requires scalable solutions.
@@ -66,11 +67,11 @@ E-commerce has fundamentally transformed the global market, bringing numerous be
   <tr>
     <td>
       <img src="https://raw.githubusercontent.com/PriyadharshiniRD/APS-portfolio.github.io/main/images/Trie%20DS.png" width="475" height="475" alt="Trie DS">
-      <p>Trie Data structure</p>
+      <p>Fig.2 : Trie Data structure</p>
     </td>
     <td>
       <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/tier%20pic.png?raw=true" width="475" height="475" alt="Tier Pic">
-      <p>Implementation in real life</p>
+      <p>Fig.3 : Implementation in real life</p>
     </td>
   </tr>
 </table>
@@ -96,11 +97,11 @@ By implementing tries, e-commerce platforms can provide instant search suggestio
   <tr>
     <td>
       <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/dij%20image.png?raw=true" width="475" height="475" alt="Trie DS">
-      <p>Trie Data structure</p>
+      <p>Fig.4 : Dijkstra's </p>
     </td>
     <td>
       <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/dij%20anima.jpg?raw=true" width="475" height="475" alt="Tier Pic">
-      <p>Implementation in real life</p>
+      <p>Fig.5 : Delivery of products in real life</p>
     </td>
   </tr>
 </table>
@@ -125,11 +126,11 @@ Using Dijkstra's Algorithm in logistics for e-commerce optimizes delivery routes
   <tr>
     <td>
       <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/mos%20anima.jpg?raw=true" width="475" height="475" alt="Trie DS">
-      <p>Trie Data structure</p>
+      <p>Fig.6 : Mo's Algorithm </p>
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/PriyadharshiniRD/APS-portfolio.github.io/main/images/price%20range%20pic.png" width="475" height="475" alt="Tier Pic">
-      <p>Implementation in real life</p>
+      <p>Fig.7 : Specific range of prices</p>
     </td>
   </tr>
 </table>
@@ -154,11 +155,11 @@ In e-commerce platforms, Mo's Algorithm can be leveraged to optimize operations 
   <tr>
     <td>
       <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/b+%20search.jpg?raw=true" width="475" height="475" alt="Trie DS">
-      <p>Trie Data structure</p>
+      <p>Fig.8 : B+ structure</p>
     </td>
     <td>
       <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/order.jpg?raw=true" width="475" height="475" alt="Tier Pic">
-      <p>Implementation in real life</p>
+      <p>Fig.9 : Data retrieve based on Order ID</p>
     </td>
   </tr>
 </table>
@@ -183,11 +184,11 @@ The impact of using B+ trees in e-commerce is profound, primarily enhancing effi
   <tr>
     <td>
       <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/skip-list41.gif?raw=true" width="475" height="475" alt="Trie DS">
-      <p>Trie Data structure</p>
+      <p>Fig.10 : Skip list</p>
     </td>
     <td>
       <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/low%20to%20hgh.jpg?raw=true" width="475" height="475" alt="Tier Pic">
-      <p>Implementation in real life</p>
+      <p>Fig.11 : Sorting of prices feature available in E-commerce</p>
     </td>
   </tr>  
 </table>
@@ -213,11 +214,11 @@ Skip lists impact e-commerce platforms significantly by enhancing operational ef
   <tr>
     <td>
       <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/union%20find.png?raw=true" width="475" height="475" alt="Trie DS">
-      <p>Trie Data structure</p>
+      <p>Fig.12 : Union-Find structure</p>
     </td>
     <td>
       <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/category.jpg?raw=true" width="475" height="475" alt="Tier Pic">
-      <p>Implementation in real life</p>
+      <p>Fig.13 : Products categorization for easy shopping</p>
     </td>
   </tr>  
 </table>
@@ -246,11 +247,11 @@ Its impact lies in enabling quick categorization updates and checks, which are e
   <tr>
     <td>
       <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/bfs%20image.jpg?raw=true" width="475" height="475" alt="Trie DS">
-      <p>Trie Data structure</p>
+      <p>Fig.14 : BFS</p>
     </td>
     <td>
       <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/order%20track%20anima.png?raw=true" width="475" height="475" alt="Tier Pic">
-      <p>Implementation in real life</p>
+      <p>Fig.15 : Tracking of orders based on levels</p>
     </td>
   </tr>  
 </table>
@@ -276,11 +277,11 @@ Order tracking in e-commerce using BFS significantly impacts customer satisfacti
   <tr>
     <td>
       <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/Topological_Sort.png?raw=true" width="475" height="475" alt="Trie DS">
-      <p>Trie Data structure</p>
+      <p>Fig.16 : Topological Sorting structure</p>
     </td>
     <td>
       <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/recome.png?raw=true" width="475" height="475" alt="Tier Pic">
-      <p>Implementation in real life</p>
+      <p>Fig.17 : Real time Recommendation</p>
     </td>
   </tr>  
 </table>
@@ -307,11 +308,11 @@ Topological sorting significantly impacts e-commerce recommendation systems by e
   <tr>
     <td>
       <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/huffman.png?raw=true" width="475" height="475" alt="Trie DS">
-      <p>Trie Data structure</p>
+      <p>Fig.18 : Huffman structure</p>
     </td>
     <td>
       <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/1-7-data-reduction-19-320.jpg?raw=true" width="475" height="475" alt="Tier Pic">
-      <p>Implementation in real life</p>
+      <p>Fig.19 : To store effectively</p>
     </td>
   </tr>  
 </table>
@@ -332,17 +333,17 @@ Huffman coding's impact lies in its ability to significantly reduce the size of 
 
 
 
-### Efficient Symbol-Based Data Compression
+### Managing Products With Fenwick
 
 <table border="0">
   <tr>
     <td>
       <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/fenwick.png?raw=true" width="475" height="475" alt="Trie DS">
-      <p>Trie Data structure</p>
+      <p>Fig.20 :  Fenwick tree structure</p>
     </td>
     <td>
       <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/product%20add%20or%20remove.jpg?raw=true" width="475" height="475" alt="Tier Pic">
-      <p>Implementation in real life</p>
+      <p>Fig.21 : Real time addition and removal of products </p>
     </td>
   </tr>  
 </table>
@@ -361,6 +362,35 @@ Implementing a Fenwick Tree (Binary Indexed Tree) to manage products by their ID
 [view implementation here](https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/codes/fenwick.cpp)
 
 
+### Optimize Product Pricing With MaxHeap
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/MaxHeap.jpg?raw=true" width="475" height="475" alt="Trie DS">
+      <p>Fig.22 : Max Heap structure</p>
+    </td>
+    <td>
+      <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/max%20heap%202.png?raw=true" width="475" height="475" alt="Tier Pic">
+      <p>Fig.23 : Buying costly things on E-commerce</p>
+    </td>
+  </tr>  
+</table>
+
+Using a max heap to find costly and cheap products efficiently organizes product prices in a data structure where the highest prices are easily accessible. This functionality allows for quick retrieval of the most expensive products (top of the heap) and facilitates comparisons to identify the least expensive ones. In e-commerce applications, this approach supports dynamic pricing strategies, real-time product recommendations based on price ranges, and rapid adjustments to inventory management based on product cost.
+
+
+#### Impact and Efficiency
+Using a max heap to find costly and cheap products significantly enhances operational efficiency in e-commerce platforms. It allows for quick retrieval of the highest priced items for strategic pricing decisions and easy identification of the lowest priced products for promotions or clearance sales. This approach optimizes inventory management by enabling swift adjustments based on price variations, thereby enhancing overall profitability and customer satisfaction through targeted pricing and product placement strategies.
+
+
+
+|Aspect           | Complexity      | 
+|-----------------|-----------------|
+| Time Complexity |  O(log n)| 
+| Space Complexity| O(n)       |
+
+[view implementation here](https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/codes/maxHeap.cpp)
 
 
 
