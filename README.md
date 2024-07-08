@@ -153,11 +153,11 @@ In e-commerce platforms, Mo's Algorithm can be leveraged to optimize operations 
 <table border="0">
   <tr>
     <td>
-      <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/mos%20anima.jpg?raw=true" width="475" height="475" alt="Trie DS">
+      <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/b+%20search.jpg?raw=true" width="475" height="475" alt="Trie DS">
       <p>Trie Data structure</p>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/PriyadharshiniRD/APS-portfolio.github.io/main/images/price%20range%20pic.png" width="475" height="475" alt="Tier Pic">
+      <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/order.jpg?raw=true" width="475" height="475" alt="Tier Pic">
       <p>Implementation in real life</p>
     </td>
   </tr>
@@ -175,21 +175,48 @@ The impact of using B+ trees in e-commerce is profound, primarily enhancing effi
 | Space Complexity| O(n)       |
 | Search| O(log n)       |
 
+[view implementation here](https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/codes/B%2B%20Tree.cpp)
+
+### Efficiency and Impact of Skip Lists in E-commerce Operations
 
 <table border="0">
   <tr>
     <td>
-      <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/b+%20search.jpg?raw=true" width="475" height="475" alt="Trie DS">
+      <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/skip-list41.gif?raw=true" width="475" height="475" alt="Trie DS">
       <p>Trie Data structure</p>
     </td>
     <td>
-      <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/order.jpg?raw=true" width="475" height="475" alt="Tier Pic">
+      <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/low%20to%20hgh.jpg?raw=true" width="475" height="475" alt="Tier Pic">
       <p>Implementation in real life</p>
     </td>
-  </tr>
+  </tr>  
 </table>
 
-[view implementation here](https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/codes/B%2B%20Tree.cpp)
+Skip lists are also used in e-commerce to efficiently display products in ascending or descending order based on various attributes such as price, popularity, or rating. Their ability to maintain sorted data allows for quick traversal in both directions, enabling seamless presentation of products from lowest to highest values or vice versa. This functionality enhances the user experience by providing flexible and responsive sorting options, ensuring that customers can easily browse and find products according to their preferences and criteria.
+
+#### Impact and Efficiency
+Skip lists impact e-commerce platforms significantly by enhancing operational efficiency through their logarithmic time complexity for insertion, deletion, and search operations. This efficiency ensures that as the dataset grows, the performance remains optimal, allowing for rapid access and modification of critical data such as product inventory, customer profiles, and transaction records. By providing a balance between the simplicity of linked lists and the efficiency of balanced trees, skip lists streamline data management processes, contributing to faster query responses and improved overall system responsiveness. This, in turn, enhances user experience by facilitating quicker access to information and smoother transaction processing, thereby bolstering customer satisfaction and operational effectiveness in e-commerce environments.
+
+|Aspect           | Complexity      | 
+|-----------------|-----------------|
+| Time Complexity |  O(log1/pn)| 
+| Space Complexity| O(n)       |
+| Search| O(log1/pk) |
+
+
+[view implementation here](https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/codes/skipList.cpp)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
