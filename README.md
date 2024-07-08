@@ -231,7 +231,140 @@ Its impact lies in enabling quick categorization updates and checks, which are e
 |-----------------|-----------------|
 | Union |  O(n)| 
 | Find| O(n)       |
+
+
 [view implementation here](https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/codes/unionFind.cpp)
+
+
+
+### Order Tracking Automation
+
+
+
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/bfs%20image.jpg?raw=true" width="475" height="475" alt="Trie DS">
+      <p>Trie Data structure</p>
+    </td>
+    <td>
+      <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/order%20track%20anima.png?raw=true" width="475" height="475" alt="Tier Pic">
+      <p>Implementation in real life</p>
+    </td>
+  </tr>  
+</table>
+
+Order tracking in e-commerce using BFS (Breadth-First Search) is essential for ensuring customers receive real-time updates on their orders' progress from placement to delivery. BFS facilitates efficient navigation through various stages of order processing, including order verification, processing, packaging, shipping, and delivery. This methodical approach guarantees sequential checking of each stage, enabling prompt updates and transparency in the order fulfillment process.
+
+#### Impact and Efficiency
+
+Order tracking in e-commerce using BFS significantly impacts customer satisfaction by providing real-time updates on order status, enhancing transparency, and reducing customer inquiries about their orders. This transparency fosters trust and loyalty among customers, leading to increased repeat purchases and improved brand reputation.
+
+|Aspect           | Complexity      | 
+|-----------------|-----------------|
+| Time Complexity |  O(V+E)| 
+| Space Complexity| O(V)       |
+
+[view implementation here](https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/codes/bfs.c)
+
+
+### Efficient Product Recommendation
+
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/Topological_Sort.png?raw=true" width="475" height="475" alt="Trie DS">
+      <p>Trie Data structure</p>
+    </td>
+    <td>
+      <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/recome.png?raw=true" width="475" height="475" alt="Tier Pic">
+      <p>Implementation in real life</p>
+    </td>
+  </tr>  
+</table>
+
+Topological sorting aids in e-commerce product recommendation systems by organizing products based on their relationships and dependencies. By establishing a logical order through graph-based structures, it enables the system to suggest related items effectively. This method optimizes the relevance of recommendations, enhances user engagement by suggesting complementary products or items frequently purchased together, and supports efficient navigation through product categories. Integrating topological sorting ensures that recommendations are contextually meaningful and responsive to dynamic changes in customer preferences and market trends.
+
+#### Impact and Efficiency
+
+Topological sorting significantly impacts e-commerce recommendation systems by enhancing efficiency in product categorization and recommendation generation. Its linear time complexity allows for rapid sorting of product dependencies, ensuring quick updates to recommendation lists as new products are added or customer preferences evolve. This efficiency translates to improved user experience through timely and relevant product suggestions, boosting sales by promoting cross-selling and upselling opportunities. By organizing products hierarchically, topological sorting optimizes the browsing experience, making it easier for users to discover related items and navigate through product catalogs seamlessly.
+
+|Aspect           | Complexity      | 
+|-----------------|-----------------|
+| Time Complexity |  O(V+E)| 
+| Space Complexity| O(V)       |
+
+
+[view implementation here](https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/codes/topologicalSort.cpp)
+
+
+
+### Efficient Symbol-Based Data Compression
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/huffman.png?raw=true" width="475" height="475" alt="Trie DS">
+      <p>Trie Data structure</p>
+    </td>
+    <td>
+      <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/1-7-data-reduction-19-320.jpg?raw=true" width="475" height="475" alt="Tier Pic">
+      <p>Implementation in real life</p>
+    </td>
+  </tr>  
+</table>
+
+Huffman coding reduces data size by assigning shorter binary codes to frequently encountered symbols and longer codes to less common ones, based on their respective frequencies. This compression method optimizes storage and speeds up data transmission in e-commerce applications, benefiting from reduced file sizes and improved efficiency in handling large volumes of information.
+
+#### Impact and Efficiency
+Huffman coding's impact lies in its ability to significantly reduce the size of data files through efficient compression techniques. By assigning shorter codes to more frequent symbols and longer codes to less frequent ones, it optimizes storage space and enhances data transmission efficiency in e-commerce and other applications. This compression method not only minimizes storage costs but also accelerates data transfer speeds across networks, improving overall system performance and user experience. Its effectiveness depends on the frequency distribution of symbols within the data, with higher compression ratios achievable in scenarios with predictable or repetitive patterns.
+
+|Aspect           | Complexity      | 
+|-----------------|-----------------|
+|Building the Huffman Tree               |  O(n log n)| 
+|Generating Huffman Codes: | O(n)       |
+|Space Huffman Tree | O(n)       |
+
+[view implementation here](https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/codes/huffmannCode.cpp)
+
+
+
+
+### Efficient Symbol-Based Data Compression
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/fenwick.png?raw=true" width="475" height="475" alt="Trie DS">
+      <p>Trie Data structure</p>
+    </td>
+    <td>
+      <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/product%20add%20or%20remove.jpg?raw=true" width="475" height="475" alt="Tier Pic">
+      <p>Implementation in real life</p>
+    </td>
+  </tr>  
+</table>
+
+Using a Fenwick Tree (Binary Indexed Tree) to manage products by their IDs offers a robust solution for efficient data management in e-commerce. This data structure facilitates quick updates and queries, ensuring seamless addition and retrieval of product information based on their unique identifiers. By leveraging the Fenwick Tree, e-commerce platforms can dynamically track and manage inventory, sales, or other metrics associated with product IDs with optimal efficiency. This capability is particularly advantageous in handling large datasets and real-time updates, making it a valuable tool for enhancing performance and scalability in e-commerce applications.
+
+
+#### Impact and Efficiency
+Implementing a Fenwick Tree (Binary Indexed Tree) to manage products by their IDs in e-commerce applications significantly enhances operational impact. It allows for rapid updates and queries, facilitating real-time management of inventory, sales tracking, and other key metrics linked to product IDs. This data structure optimizes performance by ensuring that operations like adding products or calculating cumulative sums are executed swiftly, minimizing computational overhead and improving overall system responsiveness and user experience.
+
+|Aspect           | Complexity      | 
+|-----------------|-----------------|
+| Time Complexity |  O(log n)| 
+| Space Complexity| O(n)       |
+
+[view implementation here](https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/codes/fenwick.cpp)
+
+
+
+
+
+
 
 
 
