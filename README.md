@@ -208,7 +208,30 @@ Skip lists impact e-commerce platforms significantly by enhancing operational ef
 
 
 
+ ### Product Categorization and Hierarchy Management
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/union%20find.png?raw=true" width="475" height="475" alt="Trie DS">
+      <p>Trie Data structure</p>
+    </td>
+    <td>
+      <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/category.jpg?raw=true" width="475" height="475" alt="Tier Pic">
+      <p>Implementation in real life</p>
+    </td>
+  </tr>  
+</table>
+ 
+Union-Find, or Disjoint Set Union (DSU), is vital in e-commerce for product categorization. It efficiently groups products into categories using Union and Find operations, ensuring quick updates and categorization checks. With nearly constant time complexity for operations, Union-Find supports fast management of product hierarchies, enhancing user experiences through streamlined searches and efficient inventory management in dynamic e-commerce environments.
 
+#### Impact and Efficiency
+Its impact lies in enabling quick categorization updates and checks, which are essential for maintaining organized product hierarchies and facilitating efficient inventory management. With nearly constant time complexity for operations, Union-Find ensures rapid responsiveness in dynamic e-commerce platforms, contributing to enhanced user experiences through streamlined searches and optimized product categorization workflows.
+
+|Aspect           | Complexity      | 
+|-----------------|-----------------|
+| Union |  O(n)| 
+| Find| O(n)       |
+[view implementation here](https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/codes/unionFind.cpp)
 
 
 
