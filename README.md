@@ -1,4 +1,4 @@
-**### APS-portfolio.github.io**
+### APS-portfolio.github.io
 <dl>
 <dt>Course Name</dt>
 <dd>Algorithmic Problem Solving</dd>
