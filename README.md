@@ -95,11 +95,11 @@ By implementing tries, e-commerce platforms can provide instant search suggestio
 <table border="0">
   <tr>
     <td>
-      <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/dij%20image.png" width="475" height="475" alt="Trie DS">
+      <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/dij%20image.png?raw=true" width="475" height="475" alt="Trie DS">
       <p>Trie Data structure</p>
     </td>
     <td>
-      <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/dij%20anima.jpg" width="475" height="475" alt="Tier Pic">
+      <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/dij%20anima.jpg?raw=true" width="475" height="475" alt="Tier Pic">
       <p>Implementation in real life</p>
     </td>
   </tr>
@@ -146,5 +146,52 @@ In e-commerce platforms, Mo's Algorithm can be leveraged to optimize operations 
 | Space Complexity| O(N)       |
 
 [view implementation here](https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/codes/MOs%20algo.cpp)
+
+
+### Efficient Data Retrieval and Management in E-commerce.
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/mos%20anima.jpg?raw=true" width="475" height="475" alt="Trie DS">
+      <p>Trie Data structure</p>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/PriyadharshiniRD/APS-portfolio.github.io/main/images/price%20range%20pic.png" width="475" height="475" alt="Tier Pic">
+      <p>Implementation in real life</p>
+    </td>
+  </tr>
+</table>
+
+B+ trees are pivotal in e-commerce for their ability to swiftly retrieve data based on keys such as product IDs, order IDs, and customer IDs. This efficiency ensures that platforms can quickly access and manage critical information like product details, order statuses, customer profiles, and inventory levels. By organizing data in a structured and balanced tree format, B+ trees optimize search operations, reduce query times, and enhance system performance. This capability not only improves user experience by providing fast access to relevant information but also supports seamless operations in handling large-scale datasets essential for robust e-commerce platforms.
+
+#### Impact and Efficiency
+
+The impact of using B+ trees in e-commerce is profound, primarily enhancing efficiency by enabling rapid data retrieval and management based on key identifiers like product IDs, customer IDs, and transaction IDs. This efficiency translates into reduced latency in accessing critical information such as product details, order statuses, and customer profiles, thereby improving overall system performance. Moreover, B+ trees' ability to handle large-scale datasets efficiently ensures that e-commerce platforms can scale effectively while maintaining fast response times, ultimately enhancing user satisfaction through streamlined operations and optimized resource utilization.
+
+ |Aspect           | Complexity      | 
+|-----------------|-----------------|
+| Time Complexity |  O(log n)| 
+| Space Complexity| O(n)       |
+| Search| O(log n)       |
+
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/b+%20search.jpg?raw=true" width="475" height="475" alt="Trie DS">
+      <p>Trie Data structure</p>
+    </td>
+    <td>
+      <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/order.jpg?raw=true" width="475" height="475" alt="Tier Pic">
+      <p>Implementation in real life</p>
+    </td>
+  </tr>
+</table>
+
+[view implementation here](https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/codes/B%2B%20Tree.cpp)
+
+
+
 ### Prerequisites
 * Code List 1 [Union-Find](https://github.com/prakashbh/day-today-codes/blob/master/10-union-find-basic.c) concepts.
