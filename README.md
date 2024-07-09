@@ -411,25 +411,3 @@ Using a max heap to find costly and cheap products significantly enhances operat
 
 [6] Fenwick, P. M. (n.d.). A new data structure for cumulative frequency tables. Department of Computer Science, University of Auckland. Retrieved from (email: p.fenwick@cs.auckland.ac.nz)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Prerequisites
-* Code List 1 [Union-Find](https://github.com/prakashbh/day-today-codes/blob/master/10-union-find-basic.c) concepts.
