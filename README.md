@@ -371,7 +371,7 @@ Implementing a Fenwick Tree (Binary Indexed Tree) to manage products by their ID
 <table border="0">
   <tr>
     <td>
-      <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/MaxHeap.jpg?raw=true" width="475" height="475" alt="Trie DS">
+      <img src="https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/images/new%20max%20heap.png?raw=true" width="475" height="475" alt="Trie DS">
       <p>Fig.22 : Max Heap structure</p>
     </td>
     <td>
@@ -395,6 +395,22 @@ Using a max heap to find costly and cheap products significantly enhances operat
 | Space Complexity| O(n)       |
 
 [view implementation here](https://github.com/PriyadharshiniRD/APS-portfolio.github.io/blob/main/codes/maxHeap.cpp)
+
+
+### Reference
+
+
+[1] Pang, C., Wang, J., Cheng, Y., Zhang, H. L., & Li, T. (2015). Topological sorts on DAGs. Information Processing Letters, 115(2), 298-301. https://doi.org/10.1016/j.ipl.2014.09.031
+[2] Moffat, A. (2019). Huffman coding. ACM Computing Surveys (CSUR), 52(4), Article 85, 1-35. https://doi.org/10.1145/3342555
+[3] Vitter, J. (Ed.). (n.d.). Skip lists: A probabilistic alternative to balanced trees. Algorithms and Data Structures.
+[4] Comer, D. (n.d.). The ubiquitous B-tree. Computer Science Department, Purdue University.
+[5] "The k-d tree data structure and a proof for neighborhood computation in expected logarithmic time" by Martin Skrodzki
+[6] Fenwick, P. M. (n.d.). A new data structure for cumulative frequency tables. Department of Computer Science, University of Auckland. Retrieved from (email:        p.fenwick@cs.auckland.ac.nz)
+
+
+
+
+
 
 
 
